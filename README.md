@@ -4,7 +4,6 @@
 
 * PHP 7.2+
 * Composer
-* JSON-RPC Client — https://github.com/ossipov/jsonrpc-client 
 
 ## Installation 
 
